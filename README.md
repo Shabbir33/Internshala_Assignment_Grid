@@ -6,8 +6,8 @@ Then navigate to .env file and update the MONGO_URL string to your own connectio
 
 For Frontend:
 Go inside /frontend and open terminal:
--npm install
--npm run dev
+- npm install
+- npm run dev
 
 Go to the url provided in terminal by vite (http://localhost:5173)
 
